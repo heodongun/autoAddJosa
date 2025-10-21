@@ -25,7 +25,7 @@ repositories {
 }
 
 dependencies {
-    implementation("io.github.heodongun:1.0.0")
+     implementation("io.github.heodongun:autoAddJosa:1.0.0")
 }
 ```
 
@@ -36,7 +36,7 @@ repositories {
 }
 
 dependencies {
-    implementation("io.github.heodongun:autoAddJosa:1.0.0")
+     implementation("io.github.heodongun:autoAddJosa:1.0.0")
 }
 ```
 
