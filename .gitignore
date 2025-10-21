@@ -43,3 +43,13 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+### Sensitive Files ###
+gradle.properties
+local.properties
+*.keystore
+*.jks
+*.key
+*.pem
+secring.gpg
+.gnupg/
