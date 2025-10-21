@@ -36,7 +36,7 @@ repositories {
 }
 
 dependencies {
-    implementation("com.github.plutodesu:autoAddJosa:1.0.0")
+    implementation("io.github.heodongun:autoAddJosa:1.0.0")
 }
 ```
 
@@ -45,8 +45,8 @@ dependencies {
 ## Usage
 
 ```kotlin
-import io.github.plutodesu.autoaddjosa.Josa
-import io.github.plutodesu.autoaddjosa.josa
+import io.github.heodongun.autoaddjosa.Josa
+import io.github.heodongun.autoaddjosa.josa
 
 fun main() {
     println("사과".josa(Josa.은는))   // 사과는
